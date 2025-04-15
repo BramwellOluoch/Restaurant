@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Delicious Bites Menu</title>
+  </head>
+  <body>
+    <h1>Delicious Bites Menu</h1>
+
+    <h2>Appetizers</h2>
+    <ul>
+      <li>
+        <strong>Garlic Bread:</strong> Freshly baked bread topped with garlic
+        butter and herbs.
+      </li>
+      <li>
+        <strong>Stuffed Mushrooms:</strong> Mushrooms filled with a creamy
+        cheese and herb stuffing.
+      </li>
+      <li>
+        <strong>Bruschetta:</strong> Grilled bread topped with diced tomatoes,
+        basil, and olive oil.
+      </li>
+    </ul>
+
+    <h2>Main Courses</h2>
+    <ul>
+      <li>
+        <strong>Grilled Chicken Alfredo:</strong> Tender chicken served over
+        fettuccine in a creamy Alfredo sauce.
+      </li>
+      <li>
+        <strong>Beef Lasagna:</strong> Layers of pasta, beef, cheese, and rich
+        tomato sauce.
+      </li>
+      <li>
+        <strong>Vegetarian Stir-Fry:</strong> Fresh veggies sautéed in a savory
+        soy-ginger sauce over rice.
+      </li>
+    </ul>
+
+    <h2>Desserts</h2>
+    <ul>
+      <li>
+        <strong>Chocolate Lava Cake:</strong> Warm chocolate cake with a gooey
+        center served with vanilla ice cream.
+      </li>
+      <li>
+        <strong>Cheesecake:</strong> Creamy New York-style cheesecake with a
+        graham cracker crust.
+      </li>
+      <li>
+        <strong>Tiramisu:</strong> Classic Italian dessert with layers of
+        coffee-soaked ladyfingers and mascarpone cream.
+      </li>
+    </ul>
+
+    <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/embed/vVXTnpHSx3c?si=d64wkNfWX5e5dMEM"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen
+    ></iframe>
+
+    <p><a href="contact.html">Contact Us</a></p>
+  </body>
+</html>
